@@ -1,11 +1,9 @@
-// C++ program for addition 
-// of two matrices 
+// C++ program for addition of two matrices 
 #include <bits/stdc++.h> 
 using namespace std; 
 #define N 4 
 
-// This function adds A[][] and B[][], and stores 
-// the result in C[][] 
+// This function adds A[][] and B[][], and stores the result in C[][] 
 void add(int A[][N], int B[][N], int C[][N]) 
 { 
 	int i, j; 
